@@ -1,4 +1,4 @@
-function navigateTo(page) {
+/* function navigateTo(page) {
   switch (page) {
     case 'home':
       window.location.href = 'home.html';
@@ -16,3 +16,4 @@ function navigateTo(page) {
       console.log('Unknown page: ' + page);
   }
 }
+*/
